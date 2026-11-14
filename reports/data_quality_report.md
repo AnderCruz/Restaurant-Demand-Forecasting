@@ -23,7 +23,7 @@ The supplied workbook contains 28 forecast rows dated 2017-04-23 through 2017-05
 
 ## Environment
 
-The active Python is 3.12.3. The initial virtual environment was empty; after package-index access was enabled, the core dependencies installed successfully. All 12 numbered notebooks executed, and Prophet fitted and serialized with the installed CmdStan backend.
+The active Python is 3.12.3. The core dependencies installed successfully, and all 12 numbered notebooks executed in order. Notebook 08's full experiment was also executed in the optional TensorFlow 2.21.0 environment with GPU support; the base-environment run correctly reports that neural training is optional. Prophet fitted and serialised with the installed CmdStan backend.
 
 ## Dependency installation attempt
 
