@@ -1,0 +1,49 @@
+restaurant,fold,architecture,best_epoch,training_cutoff
+Chimi & Churri,1,mlp,9,2016-10-06
+Chimi & Churri,1,gru,5,2016-10-06
+Chimi & Churri,1,lstm,14,2016-10-06
+Chimi & Churri,2,mlp,9,2016-11-03
+Chimi & Churri,2,gru,21,2016-11-03
+Chimi & Churri,2,lstm,30,2016-11-03
+Chimi & Churri,3,mlp,22,2016-12-01
+Chimi & Churri,3,gru,30,2016-12-01
+Chimi & Churri,3,lstm,30,2016-12-01
+Chimi & Churri,4,mlp,17,2016-12-29
+Chimi & Churri,4,gru,23,2016-12-29
+Chimi & Churri,4,lstm,30,2016-12-29
+Chimi & Churri,5,mlp,16,2017-01-26
+Chimi & Churri,5,gru,30,2017-01-26
+Chimi & Churri,5,lstm,29,2017-01-26
+Chimi & Churri,6,mlp,16,2017-02-23
+Chimi & Churri,6,gru,29,2017-02-23
+Chimi & Churri,6,lstm,19,2017-02-23
+Assa Frão,1,mlp,8,2016-10-06
+Assa Frão,1,gru,19,2016-10-06
+Assa Frão,1,lstm,3,2016-10-06
+Assa Frão,3,mlp,19,2016-12-01
+Assa Frão,3,gru,18,2016-12-01
+Assa Frão,3,lstm,19,2016-12-01
+Assa Frão,4,mlp,7,2016-12-29
+Assa Frão,4,gru,16,2016-12-29
+Assa Frão,4,lstm,18,2016-12-29
+Assa Frão,5,mlp,4,2017-01-26
+Assa Frão,5,gru,10,2017-01-26
+Assa Frão,5,lstm,27,2017-01-26
+Assa Frão,6,mlp,9,2017-02-23
+Assa Frão,6,gru,22,2017-02-23
+Assa Frão,6,lstm,7,2017-02-23
+Total demand,1,mlp,17,2016-10-06
+Total demand,1,gru,30,2016-10-06
+Total demand,1,lstm,21,2016-10-06
+Total demand,3,mlp,16,2016-12-01
+Total demand,3,gru,23,2016-12-01
+Total demand,3,lstm,30,2016-12-01
+Total demand,4,mlp,12,2016-12-29
+Total demand,4,gru,16,2016-12-29
+Total demand,4,lstm,20,2016-12-29
+Total demand,5,mlp,26,2017-01-26
+Total demand,5,gru,19,2017-01-26
+Total demand,5,lstm,14,2017-01-26
+Total demand,6,mlp,13,2017-02-23
+Total demand,6,gru,30,2017-02-23
+Total demand,6,lstm,30,2017-02-23

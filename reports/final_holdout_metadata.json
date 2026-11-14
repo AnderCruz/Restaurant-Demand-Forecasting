@@ -1,0 +1,12 @@
+{
+  "holdout_period": [
+    "2017-03-26",
+    "2017-04-22"
+  ],
+  "horizon_days": 28,
+  "training_cutoff": "2017-03-25",
+  "selection_rule": "The final comparison contains model families/parameters selected using development folds before holdout scoring.",
+  "scoring_rule": "Unknown actuals are excluded; total demand requires both restaurant actuals.",
+  "warning": "Use these holdout results for final assessment; do not tune or reselect using them.",
+  "forecast_file": "artifacts/forecasts/final_holdout_forecasts.csv"
+}

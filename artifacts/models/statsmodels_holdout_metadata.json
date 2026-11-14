@@ -1,0 +1,48 @@
+{
+  "training_cutoff": "2017-03-25",
+  "package_versions": {
+    "statsmodels": "0.15.0",
+    "pandas": "2.3.3"
+  },
+  "parameters": "Constrained training-only AIC order search; weekly seasonal period 7",
+  "validation_method": "chronological 28-calendar-day holdout",
+  "forecast_horizon_days": 28,
+  "fitted_candidates": [
+    {
+      "restaurant": "Chimi & Churri",
+      "model": "ARMA_AIC",
+      "aic": 3831.972172979657,
+      "bic": 3856.627658476243
+    },
+    {
+      "restaurant": "Chimi & Churri",
+      "model": "ARIMA_AIC",
+      "aic": 4009.801466726905,
+      "bic": 4026.229558277874
+    },
+    {
+      "restaurant": "Chimi & Churri",
+      "model": "SARIMAX_weekly_AIC",
+      "aic": 3654.808256035625,
+      "bic": 3675.2534804128595
+    },
+    {
+      "restaurant": "Assa Fr\u00e3o",
+      "model": "ARMA_AIC",
+      "aic": 4131.067862550703,
+      "bic": 4151.614100464524
+    },
+    {
+      "restaurant": "Assa Fr\u00e3o",
+      "model": "ARIMA_AIC",
+      "aic": 4119.2866029126235,
+      "bic": 4139.821717351335
+    },
+    {
+      "restaurant": "Assa Fr\u00e3o",
+      "model": "SARIMAX_weekly_AIC",
+      "aic": 3819.866333444951,
+      "bic": 3840.3115578221855
+    }
+  ]
+}

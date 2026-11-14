@@ -1,0 +1,2 @@
+# Optional and capacity-sensitive; install separately when desired.
+tensorflow>=2.16

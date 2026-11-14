@@ -1,0 +1,421 @@
+date,restaurant,model,horizon,prediction,lower,upper
+2017-03-26,Assa Frão,baseline_naive,1,64.0,,
+2017-03-27,Assa Frão,baseline_naive,2,64.0,,
+2017-03-28,Assa Frão,baseline_naive,3,64.0,,
+2017-03-29,Assa Frão,baseline_naive,4,64.0,,
+2017-03-30,Assa Frão,baseline_naive,5,64.0,,
+2017-03-31,Assa Frão,baseline_naive,6,64.0,,
+2017-04-01,Assa Frão,baseline_naive,7,64.0,,
+2017-04-02,Assa Frão,baseline_naive,8,64.0,,
+2017-04-03,Assa Frão,baseline_naive,9,64.0,,
+2017-04-04,Assa Frão,baseline_naive,10,64.0,,
+2017-04-05,Assa Frão,baseline_naive,11,64.0,,
+2017-04-06,Assa Frão,baseline_naive,12,64.0,,
+2017-04-07,Assa Frão,baseline_naive,13,64.0,,
+2017-04-08,Assa Frão,baseline_naive,14,64.0,,
+2017-04-09,Assa Frão,baseline_naive,15,64.0,,
+2017-04-10,Assa Frão,baseline_naive,16,64.0,,
+2017-04-11,Assa Frão,baseline_naive,17,64.0,,
+2017-04-12,Assa Frão,baseline_naive,18,64.0,,
+2017-04-13,Assa Frão,baseline_naive,19,64.0,,
+2017-04-14,Assa Frão,baseline_naive,20,64.0,,
+2017-04-15,Assa Frão,baseline_naive,21,64.0,,
+2017-04-16,Assa Frão,baseline_naive,22,64.0,,
+2017-04-17,Assa Frão,baseline_naive,23,64.0,,
+2017-04-18,Assa Frão,baseline_naive,24,64.0,,
+2017-04-19,Assa Frão,baseline_naive,25,64.0,,
+2017-04-20,Assa Frão,baseline_naive,26,64.0,,
+2017-04-21,Assa Frão,baseline_naive,27,64.0,,
+2017-04-22,Assa Frão,baseline_naive,28,64.0,,
+2017-03-26,Assa Frão,baseline_seasonal_naive_7,1,79.0,,
+2017-03-27,Assa Frão,baseline_seasonal_naive_7,2,50.0,,
+2017-03-28,Assa Frão,baseline_seasonal_naive_7,3,18.0,,
+2017-03-29,Assa Frão,baseline_seasonal_naive_7,4,23.0,,
+2017-03-30,Assa Frão,baseline_seasonal_naive_7,5,13.0,,
+2017-03-31,Assa Frão,baseline_seasonal_naive_7,6,13.0,,
+2017-04-01,Assa Frão,baseline_seasonal_naive_7,7,64.0,,
+2017-04-02,Assa Frão,baseline_seasonal_naive_7,8,79.0,,
+2017-04-03,Assa Frão,baseline_seasonal_naive_7,9,50.0,,
+2017-04-04,Assa Frão,baseline_seasonal_naive_7,10,18.0,,
+2017-04-05,Assa Frão,baseline_seasonal_naive_7,11,23.0,,
+2017-04-06,Assa Frão,baseline_seasonal_naive_7,12,13.0,,
+2017-04-07,Assa Frão,baseline_seasonal_naive_7,13,13.0,,
+2017-04-08,Assa Frão,baseline_seasonal_naive_7,14,64.0,,
+2017-04-09,Assa Frão,baseline_seasonal_naive_7,15,79.0,,
+2017-04-10,Assa Frão,baseline_seasonal_naive_7,16,50.0,,
+2017-04-11,Assa Frão,baseline_seasonal_naive_7,17,18.0,,
+2017-04-12,Assa Frão,baseline_seasonal_naive_7,18,23.0,,
+2017-04-13,Assa Frão,baseline_seasonal_naive_7,19,13.0,,
+2017-04-14,Assa Frão,baseline_seasonal_naive_7,20,13.0,,
+2017-04-15,Assa Frão,baseline_seasonal_naive_7,21,64.0,,
+2017-04-16,Assa Frão,baseline_seasonal_naive_7,22,79.0,,
+2017-04-17,Assa Frão,baseline_seasonal_naive_7,23,50.0,,
+2017-04-18,Assa Frão,baseline_seasonal_naive_7,24,18.0,,
+2017-04-19,Assa Frão,baseline_seasonal_naive_7,25,23.0,,
+2017-04-20,Assa Frão,baseline_seasonal_naive_7,26,13.0,,
+2017-04-21,Assa Frão,baseline_seasonal_naive_7,27,13.0,,
+2017-04-22,Assa Frão,baseline_seasonal_naive_7,28,64.0,,
+2017-03-26,Assa Frão,hist_gradient_boosting_recursive,1,54.34131128341363,,
+2017-03-27,Assa Frão,hist_gradient_boosting_recursive,2,34.299762442103855,,
+2017-03-28,Assa Frão,hist_gradient_boosting_recursive,3,27.354253767426442,,
+2017-03-29,Assa Frão,hist_gradient_boosting_recursive,4,29.882873671042095,,
+2017-03-30,Assa Frão,hist_gradient_boosting_recursive,5,34.88314711721778,,
+2017-03-31,Assa Frão,hist_gradient_boosting_recursive,6,26.195895054424735,,
+2017-04-01,Assa Frão,hist_gradient_boosting_recursive,7,46.294812777494954,,
+2017-04-02,Assa Frão,hist_gradient_boosting_recursive,8,54.03348021405402,,
+2017-04-03,Assa Frão,hist_gradient_boosting_recursive,9,29.777131377414932,,
+2017-04-04,Assa Frão,hist_gradient_boosting_recursive,10,23.564314926891825,,
+2017-04-05,Assa Frão,hist_gradient_boosting_recursive,11,28.940400807807507,,
+2017-04-06,Assa Frão,hist_gradient_boosting_recursive,12,27.129610373337066,,
+2017-04-07,Assa Frão,hist_gradient_boosting_recursive,13,29.637986128069954,,
+2017-04-08,Assa Frão,hist_gradient_boosting_recursive,14,57.596377212288026,,
+2017-04-09,Assa Frão,hist_gradient_boosting_recursive,15,56.60243046622182,,
+2017-04-10,Assa Frão,hist_gradient_boosting_recursive,16,21.312845233228153,,
+2017-04-11,Assa Frão,hist_gradient_boosting_recursive,17,23.16461050834202,,
+2017-04-12,Assa Frão,hist_gradient_boosting_recursive,18,20.972381854913234,,
+2017-04-13,Assa Frão,hist_gradient_boosting_recursive,19,17.50984148521393,,
+2017-04-14,Assa Frão,hist_gradient_boosting_recursive,20,20.634669634123053,,
+2017-04-15,Assa Frão,hist_gradient_boosting_recursive,21,53.37335036121505,,
+2017-04-16,Assa Frão,hist_gradient_boosting_recursive,22,64.77706543262644,,
+2017-04-17,Assa Frão,hist_gradient_boosting_recursive,23,32.703692353024856,,
+2017-04-18,Assa Frão,hist_gradient_boosting_recursive,24,24.883772579659098,,
+2017-04-19,Assa Frão,hist_gradient_boosting_recursive,25,25.35967704366585,,
+2017-04-20,Assa Frão,hist_gradient_boosting_recursive,26,26.34728441084766,,
+2017-04-21,Assa Frão,hist_gradient_boosting_recursive,27,16.939052122280504,,
+2017-04-22,Assa Frão,hist_gradient_boosting_recursive,28,48.84283222624404,,
+2017-03-26,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,1,55.53468780778148,20.431646307171675,90.63772930839129
+2017-03-27,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,2,24.976453976881142,-10.918028898743447,60.870936852505736
+2017-03-28,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,3,23.89022101640496,-12.341929981336069,60.122372014145995
+2017-03-29,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,4,19.489216005200397,-16.888318433168372,55.86675044356917
+2017-03-30,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,5,18.274188039564695,-18.1661804557495,54.714556534878895
+2017-03-31,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,6,25.706609944538254,-10.760959385264226,62.17417927434073
+2017-04-01,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,7,46.32411441505503,9.844763106114826,82.80346572399523
+2017-04-02,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,8,52.687719382687234,16.08207271577983,89.29336604959464
+2017-04-03,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,9,23.20809280043023,-13.4091177226789,59.82530332353936
+2017-04-04,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,10,22.657896251972332,-13.964325314427342,59.280117818372005
+2017-04-05,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,11,18.643507112728223,-17.980886201196775,55.26790042665322
+2017-04-06,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,12,17.667622824939258,-18.95771175992172,54.29295740980024
+2017-04-07,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,13,25.18219112609199,-11.443551430969674,61.80793368315365
+2017-04-08,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,14,45.70995768494827,9.084039815862042,82.3358755540345
+2017-04-09,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,15,52.080428784387,15.370612680636434,88.79024488813758
+2017-04-10,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,16,22.91327148700821,-13.800859308891084,59.627402282907504
+2017-04-11,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,17,22.396310689047368,-14.319690087025528,59.112311465120264
+2017-04-12,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,18,18.437206417844575,-18.27960484311333,55.154017678802475
+2017-04-13,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,19,17.48247224933223,-19.234690298416904,54.19963479708136
+2017-04-14,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,20,24.93635789844657,-11.780956908314511,61.653672705207654
+2017-04-15,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,21,45.28166936977843,8.56429005563534,81.99904868392152
+2017-04-16,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,22,51.59736237788627,14.799701842171935,88.3950229136006
+2017-04-17,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,23,22.699273819787646,-14.102333989173378,59.50088162874867
+2017-04-18,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,24,22.18855325596797,-14.61476530702814,58.991871818964086
+2017-04-19,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,25,18.266655625710378,-18.5374044129048,55.070715664325554
+2017-04-20,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,26,17.321309092237584,-19.483072323069024,54.12569050754419
+2017-04-21,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,27,24.707450547413423,-12.097070162996637,61.51197125782348
+2017-04-22,Assa Frão,statsmodels_SARIMAX_weekly_AIC_selected_on_aligned_cv,28,44.86696130033053,8.06238167109926,81.6715409295618
+2017-03-26,Assa Frão,tensorflow_mlp,1,52.62955572746159,,
+2017-03-27,Assa Frão,tensorflow_mlp,2,25.123896875633363,,
+2017-03-28,Assa Frão,tensorflow_mlp,3,20.92143501977625,,
+2017-03-29,Assa Frão,tensorflow_mlp,4,12.010092926861034,,
+2017-03-30,Assa Frão,tensorflow_mlp,5,13.548267063223648,,
+2017-03-31,Assa Frão,tensorflow_mlp,6,26.771754483885616,,
+2017-04-01,Assa Frão,tensorflow_mlp,7,48.39830484106324,,
+2017-04-02,Assa Frão,tensorflow_mlp,8,43.04452519830443,,
+2017-04-03,Assa Frão,tensorflow_mlp,9,32.660982008937026,,
+2017-04-04,Assa Frão,tensorflow_mlp,10,14.665664422585904,,
+2017-04-05,Assa Frão,tensorflow_mlp,11,18.892595731671463,,
+2017-04-06,Assa Frão,tensorflow_mlp,12,19.100046600105088,,
+2017-04-07,Assa Frão,tensorflow_mlp,13,27.436828590658934,,
+2017-04-08,Assa Frão,tensorflow_mlp,14,43.79960457903417,,
+2017-04-09,Assa Frão,tensorflow_mlp,15,53.5906138818691,,
+2017-04-10,Assa Frão,tensorflow_mlp,16,27.002314238735835,,
+2017-04-11,Assa Frão,tensorflow_mlp,17,21.96735371225168,,
+2017-04-12,Assa Frão,tensorflow_mlp,18,28.840142840716908,,
+2017-04-13,Assa Frão,tensorflow_mlp,19,10.17466754828456,,
+2017-04-14,Assa Frão,tensorflow_mlp,20,30.56860143473068,,
+2017-04-15,Assa Frão,tensorflow_mlp,21,48.50078679428316,,
+2017-04-16,Assa Frão,tensorflow_mlp,22,55.01909787689692,,
+2017-04-17,Assa Frão,tensorflow_mlp,23,38.03584098889894,,
+2017-04-18,Assa Frão,tensorflow_mlp,24,16.921722814567147,,
+2017-04-19,Assa Frão,tensorflow_mlp,25,16.1177212009934,,
+2017-04-20,Assa Frão,tensorflow_mlp,26,22.582285448242143,,
+2017-04-21,Assa Frão,tensorflow_mlp,27,18.943898585911484,,
+2017-04-22,Assa Frão,tensorflow_mlp,28,46.92828650580077,,
+2017-03-26,Chimi & Churri,baseline_naive,1,95.0,,
+2017-03-27,Chimi & Churri,baseline_naive,2,95.0,,
+2017-03-28,Chimi & Churri,baseline_naive,3,95.0,,
+2017-03-29,Chimi & Churri,baseline_naive,4,95.0,,
+2017-03-30,Chimi & Churri,baseline_naive,5,95.0,,
+2017-03-31,Chimi & Churri,baseline_naive,6,95.0,,
+2017-04-01,Chimi & Churri,baseline_naive,7,95.0,,
+2017-04-02,Chimi & Churri,baseline_naive,8,95.0,,
+2017-04-03,Chimi & Churri,baseline_naive,9,95.0,,
+2017-04-04,Chimi & Churri,baseline_naive,10,95.0,,
+2017-04-05,Chimi & Churri,baseline_naive,11,95.0,,
+2017-04-06,Chimi & Churri,baseline_naive,12,95.0,,
+2017-04-07,Chimi & Churri,baseline_naive,13,95.0,,
+2017-04-08,Chimi & Churri,baseline_naive,14,95.0,,
+2017-04-09,Chimi & Churri,baseline_naive,15,95.0,,
+2017-04-10,Chimi & Churri,baseline_naive,16,95.0,,
+2017-04-11,Chimi & Churri,baseline_naive,17,95.0,,
+2017-04-12,Chimi & Churri,baseline_naive,18,95.0,,
+2017-04-13,Chimi & Churri,baseline_naive,19,95.0,,
+2017-04-14,Chimi & Churri,baseline_naive,20,95.0,,
+2017-04-15,Chimi & Churri,baseline_naive,21,95.0,,
+2017-04-16,Chimi & Churri,baseline_naive,22,95.0,,
+2017-04-17,Chimi & Churri,baseline_naive,23,95.0,,
+2017-04-18,Chimi & Churri,baseline_naive,24,95.0,,
+2017-04-19,Chimi & Churri,baseline_naive,25,95.0,,
+2017-04-20,Chimi & Churri,baseline_naive,26,95.0,,
+2017-04-21,Chimi & Churri,baseline_naive,27,95.0,,
+2017-04-22,Chimi & Churri,baseline_naive,28,95.0,,
+2017-03-26,Chimi & Churri,baseline_seasonal_naive_7,1,33.0,,
+2017-03-27,Chimi & Churri,baseline_seasonal_naive_7,2,34.0,,
+2017-03-28,Chimi & Churri,baseline_seasonal_naive_7,3,4.0,,
+2017-03-29,Chimi & Churri,baseline_seasonal_naive_7,4,33.0,,
+2017-03-30,Chimi & Churri,baseline_seasonal_naive_7,5,29.0,,
+2017-03-31,Chimi & Churri,baseline_seasonal_naive_7,6,50.0,,
+2017-04-01,Chimi & Churri,baseline_seasonal_naive_7,7,95.0,,
+2017-04-02,Chimi & Churri,baseline_seasonal_naive_7,8,33.0,,
+2017-04-03,Chimi & Churri,baseline_seasonal_naive_7,9,34.0,,
+2017-04-04,Chimi & Churri,baseline_seasonal_naive_7,10,4.0,,
+2017-04-05,Chimi & Churri,baseline_seasonal_naive_7,11,33.0,,
+2017-04-06,Chimi & Churri,baseline_seasonal_naive_7,12,29.0,,
+2017-04-07,Chimi & Churri,baseline_seasonal_naive_7,13,50.0,,
+2017-04-08,Chimi & Churri,baseline_seasonal_naive_7,14,95.0,,
+2017-04-09,Chimi & Churri,baseline_seasonal_naive_7,15,33.0,,
+2017-04-10,Chimi & Churri,baseline_seasonal_naive_7,16,34.0,,
+2017-04-11,Chimi & Churri,baseline_seasonal_naive_7,17,4.0,,
+2017-04-12,Chimi & Churri,baseline_seasonal_naive_7,18,33.0,,
+2017-04-13,Chimi & Churri,baseline_seasonal_naive_7,19,29.0,,
+2017-04-14,Chimi & Churri,baseline_seasonal_naive_7,20,50.0,,
+2017-04-15,Chimi & Churri,baseline_seasonal_naive_7,21,95.0,,
+2017-04-16,Chimi & Churri,baseline_seasonal_naive_7,22,33.0,,
+2017-04-17,Chimi & Churri,baseline_seasonal_naive_7,23,34.0,,
+2017-04-18,Chimi & Churri,baseline_seasonal_naive_7,24,4.0,,
+2017-04-19,Chimi & Churri,baseline_seasonal_naive_7,25,33.0,,
+2017-04-20,Chimi & Churri,baseline_seasonal_naive_7,26,29.0,,
+2017-04-21,Chimi & Churri,baseline_seasonal_naive_7,27,50.0,,
+2017-04-22,Chimi & Churri,baseline_seasonal_naive_7,28,95.0,,
+2017-03-26,Chimi & Churri,hist_gradient_boosting_recursive,1,36.86036524603217,,
+2017-03-27,Chimi & Churri,hist_gradient_boosting_recursive,2,27.80662390731691,,
+2017-03-28,Chimi & Churri,hist_gradient_boosting_recursive,3,33.05766005910257,,
+2017-03-29,Chimi & Churri,hist_gradient_boosting_recursive,4,27.576859651758728,,
+2017-03-30,Chimi & Churri,hist_gradient_boosting_recursive,5,35.041503518995604,,
+2017-03-31,Chimi & Churri,hist_gradient_boosting_recursive,6,49.743904229261176,,
+2017-04-01,Chimi & Churri,hist_gradient_boosting_recursive,7,66.4061269296898,,
+2017-04-02,Chimi & Churri,hist_gradient_boosting_recursive,8,32.19608847588414,,
+2017-04-03,Chimi & Churri,hist_gradient_boosting_recursive,9,22.157544475475085,,
+2017-04-04,Chimi & Churri,hist_gradient_boosting_recursive,10,23.28498482694169,,
+2017-04-05,Chimi & Churri,hist_gradient_boosting_recursive,11,24.769048218517593,,
+2017-04-06,Chimi & Churri,hist_gradient_boosting_recursive,12,25.213637878903842,,
+2017-04-07,Chimi & Churri,hist_gradient_boosting_recursive,13,41.100900801874225,,
+2017-04-08,Chimi & Churri,hist_gradient_boosting_recursive,14,71.13527081497774,,
+2017-04-09,Chimi & Churri,hist_gradient_boosting_recursive,15,36.59478780388546,,
+2017-04-10,Chimi & Churri,hist_gradient_boosting_recursive,16,24.00489175775751,,
+2017-04-11,Chimi & Churri,hist_gradient_boosting_recursive,17,27.25031012528068,,
+2017-04-12,Chimi & Churri,hist_gradient_boosting_recursive,18,26.00723015056109,,
+2017-04-13,Chimi & Churri,hist_gradient_boosting_recursive,19,28.408880908397407,,
+2017-04-14,Chimi & Churri,hist_gradient_boosting_recursive,20,43.97966629290567,,
+2017-04-15,Chimi & Churri,hist_gradient_boosting_recursive,21,73.3854037831009,,
+2017-04-16,Chimi & Churri,hist_gradient_boosting_recursive,22,39.39456651382543,,
+2017-04-17,Chimi & Churri,hist_gradient_boosting_recursive,23,26.189918931057687,,
+2017-04-18,Chimi & Churri,hist_gradient_boosting_recursive,24,26.963260645869298,,
+2017-04-19,Chimi & Churri,hist_gradient_boosting_recursive,25,27.353007221986754,,
+2017-04-20,Chimi & Churri,hist_gradient_boosting_recursive,26,30.182372577188143,,
+2017-04-21,Chimi & Churri,hist_gradient_boosting_recursive,27,54.702138064311704,,
+2017-04-22,Chimi & Churri,hist_gradient_boosting_recursive,28,74.7880477128329,,
+2017-03-26,Chimi & Churri,prophet_additive_selected_on_aligned_cv,1,45.18011454742594,25.35761283156813,64.62363491264963
+2017-03-27,Chimi & Churri,prophet_additive_selected_on_aligned_cv,2,28.696381157314974,9.884198227491927,48.46901378104149
+2017-03-28,Chimi & Churri,prophet_additive_selected_on_aligned_cv,3,30.006906434900973,10.53327622117456,48.53283677697262
+2017-03-29,Chimi & Churri,prophet_additive_selected_on_aligned_cv,4,27.165442460910068,9.079489921706939,45.942817084363284
+2017-03-30,Chimi & Churri,prophet_additive_selected_on_aligned_cv,5,31.925556502592247,13.946816224934864,51.60275243147518
+2017-03-31,Chimi & Churri,prophet_additive_selected_on_aligned_cv,6,49.51540541277706,30.85258167791384,69.44416780472804
+2017-04-01,Chimi & Churri,prophet_additive_selected_on_aligned_cv,7,72.6985969908422,54.20582907314782,91.46246094278797
+2017-04-02,Chimi & Churri,prophet_additive_selected_on_aligned_cv,8,45.29400982286358,26.6172845602525,64.53086343108069
+2017-04-03,Chimi & Churri,prophet_additive_selected_on_aligned_cv,9,28.81027643278461,9.93559876010174,48.32795651609811
+2017-04-04,Chimi & Churri,prophet_additive_selected_on_aligned_cv,10,30.120801710355927,11.434238751323612,49.654160827641874
+2017-04-05,Chimi & Churri,prophet_additive_selected_on_aligned_cv,11,27.279337736368177,8.634613605753763,47.985146935159065
+2017-04-06,Chimi & Churri,prophet_additive_selected_on_aligned_cv,12,32.039451778060325,13.287085606861915,50.92266859629308
+2017-04-07,Chimi & Churri,prophet_additive_selected_on_aligned_cv,13,49.62930068825328,31.368100090772707,69.72700699877481
+2017-04-08,Chimi & Churri,prophet_additive_selected_on_aligned_cv,14,72.8124922663005,53.739320055813884,91.67517132157076
+2017-04-09,Chimi & Churri,prophet_additive_selected_on_aligned_cv,15,45.407905098283614,26.918642198696478,63.15290647861891
+2017-04-10,Chimi & Churri,prophet_additive_selected_on_aligned_cv,16,28.924171708232663,9.35698458146532,48.50129087411602
+2017-04-11,Chimi & Churri,prophet_additive_selected_on_aligned_cv,17,30.23469698582153,11.210060761493,48.73842628683044
+2017-04-12,Chimi & Churri,prophet_additive_selected_on_aligned_cv,18,27.393233011814015,7.841902112842731,47.416071187882515
+2017-04-13,Chimi & Churri,prophet_additive_selected_on_aligned_cv,19,32.15334705352841,12.926269731390828,51.072836573676355
+2017-04-14,Chimi & Churri,prophet_additive_selected_on_aligned_cv,20,49.74319596373426,31.00167169092695,67.76546365122759
+2017-04-15,Chimi & Churri,prophet_additive_selected_on_aligned_cv,21,72.92638754175957,55.6478771127951,92.91692720101295
+2017-04-16,Chimi & Churri,prophet_additive_selected_on_aligned_cv,22,45.5218003737819,25.243841123328753,63.9643594912843
+2017-04-17,Chimi & Churri,prophet_additive_selected_on_aligned_cv,23,29.03806698367771,10.488327747378412,47.46534951330267
+2017-04-18,Chimi & Churri,prophet_additive_selected_on_aligned_cv,24,30.34859226128713,11.870233008983426,50.15712594648679
+2017-04-19,Chimi & Churri,prophet_additive_selected_on_aligned_cv,25,27.5071282872834,7.920506336656549,45.454654465775405
+2017-04-20,Chimi & Churri,prophet_additive_selected_on_aligned_cv,26,32.26724232894776,14.027533442418154,51.34889342927957
+2017-04-21,Chimi & Churri,prophet_additive_selected_on_aligned_cv,27,49.85709123915087,30.94549545382005,68.49530374406181
+2017-04-22,Chimi & Churri,prophet_additive_selected_on_aligned_cv,28,73.04028281721072,53.36473251581771,92.30045237278904
+2017-03-26,Chimi & Churri,tensorflow_gru,1,39.18130041474923,,
+2017-03-27,Chimi & Churri,tensorflow_gru,2,28.253337576455976,,
+2017-03-28,Chimi & Churri,tensorflow_gru,3,26.674215889840355,,
+2017-03-29,Chimi & Churri,tensorflow_gru,4,26.575329756431813,,
+2017-03-30,Chimi & Churri,tensorflow_gru,5,33.22789015952486,,
+2017-03-31,Chimi & Churri,tensorflow_gru,6,50.355463715356905,,
+2017-04-01,Chimi & Churri,tensorflow_gru,7,73.64302403283887,,
+2017-04-02,Chimi & Churri,tensorflow_gru,8,35.91221826486863,,
+2017-04-03,Chimi & Churri,tensorflow_gru,9,27.834386716025904,,
+2017-04-04,Chimi & Churri,tensorflow_gru,10,26.096925290679565,,
+2017-04-05,Chimi & Churri,tensorflow_gru,11,25.309870120562778,,
+2017-04-06,Chimi & Churri,tensorflow_gru,12,30.38882106218369,,
+2017-04-07,Chimi & Churri,tensorflow_gru,13,45.95155789132576,,
+2017-04-08,Chimi & Churri,tensorflow_gru,14,71.46511873875374,,
+2017-04-09,Chimi & Churri,tensorflow_gru,15,42.64359462778072,,
+2017-04-10,Chimi & Churri,tensorflow_gru,16,26.50490159679123,,
+2017-04-11,Chimi & Churri,tensorflow_gru,17,25.74744497110862,,
+2017-04-12,Chimi & Churri,tensorflow_gru,18,25.19433664502424,,
+2017-04-13,Chimi & Churri,tensorflow_gru,19,30.418038350242625,,
+2017-04-14,Chimi & Churri,tensorflow_gru,20,45.39101954376736,,
+2017-04-15,Chimi & Churri,tensorflow_gru,21,71.13843575928536,,
+2017-04-16,Chimi & Churri,tensorflow_gru,22,41.30604299362676,,
+2017-04-17,Chimi & Churri,tensorflow_gru,23,26.534471355089693,,
+2017-04-18,Chimi & Churri,tensorflow_gru,24,25.674063353943662,,
+2017-04-19,Chimi & Churri,tensorflow_gru,25,25.10477594020358,,
+2017-04-20,Chimi & Churri,tensorflow_gru,26,30.311271852259097,,
+2017-04-21,Chimi & Churri,tensorflow_gru,27,45.72304842848399,,
+2017-04-22,Chimi & Churri,tensorflow_gru,28,70.80100595581666,,
+2017-03-26,Total demand,baseline_naive,1,159.0,,
+2017-03-27,Total demand,baseline_naive,2,159.0,,
+2017-03-28,Total demand,baseline_naive,3,159.0,,
+2017-03-29,Total demand,baseline_naive,4,159.0,,
+2017-03-30,Total demand,baseline_naive,5,159.0,,
+2017-03-31,Total demand,baseline_naive,6,159.0,,
+2017-04-01,Total demand,baseline_naive,7,159.0,,
+2017-04-02,Total demand,baseline_naive,8,159.0,,
+2017-04-03,Total demand,baseline_naive,9,159.0,,
+2017-04-04,Total demand,baseline_naive,10,159.0,,
+2017-04-05,Total demand,baseline_naive,11,159.0,,
+2017-04-06,Total demand,baseline_naive,12,159.0,,
+2017-04-07,Total demand,baseline_naive,13,159.0,,
+2017-04-08,Total demand,baseline_naive,14,159.0,,
+2017-04-09,Total demand,baseline_naive,15,159.0,,
+2017-04-10,Total demand,baseline_naive,16,159.0,,
+2017-04-11,Total demand,baseline_naive,17,159.0,,
+2017-04-12,Total demand,baseline_naive,18,159.0,,
+2017-04-13,Total demand,baseline_naive,19,159.0,,
+2017-04-14,Total demand,baseline_naive,20,159.0,,
+2017-04-15,Total demand,baseline_naive,21,159.0,,
+2017-04-16,Total demand,baseline_naive,22,159.0,,
+2017-04-17,Total demand,baseline_naive,23,159.0,,
+2017-04-18,Total demand,baseline_naive,24,159.0,,
+2017-04-19,Total demand,baseline_naive,25,159.0,,
+2017-04-20,Total demand,baseline_naive,26,159.0,,
+2017-04-21,Total demand,baseline_naive,27,159.0,,
+2017-04-22,Total demand,baseline_naive,28,159.0,,
+2017-03-26,Total demand,baseline_seasonal_naive_7,1,112.0,,
+2017-03-27,Total demand,baseline_seasonal_naive_7,2,84.0,,
+2017-03-28,Total demand,baseline_seasonal_naive_7,3,22.0,,
+2017-03-29,Total demand,baseline_seasonal_naive_7,4,56.0,,
+2017-03-30,Total demand,baseline_seasonal_naive_7,5,42.0,,
+2017-03-31,Total demand,baseline_seasonal_naive_7,6,63.0,,
+2017-04-01,Total demand,baseline_seasonal_naive_7,7,159.0,,
+2017-04-02,Total demand,baseline_seasonal_naive_7,8,112.0,,
+2017-04-03,Total demand,baseline_seasonal_naive_7,9,84.0,,
+2017-04-04,Total demand,baseline_seasonal_naive_7,10,22.0,,
+2017-04-05,Total demand,baseline_seasonal_naive_7,11,56.0,,
+2017-04-06,Total demand,baseline_seasonal_naive_7,12,42.0,,
+2017-04-07,Total demand,baseline_seasonal_naive_7,13,63.0,,
+2017-04-08,Total demand,baseline_seasonal_naive_7,14,159.0,,
+2017-04-09,Total demand,baseline_seasonal_naive_7,15,112.0,,
+2017-04-10,Total demand,baseline_seasonal_naive_7,16,84.0,,
+2017-04-11,Total demand,baseline_seasonal_naive_7,17,22.0,,
+2017-04-12,Total demand,baseline_seasonal_naive_7,18,56.0,,
+2017-04-13,Total demand,baseline_seasonal_naive_7,19,42.0,,
+2017-04-14,Total demand,baseline_seasonal_naive_7,20,63.0,,
+2017-04-15,Total demand,baseline_seasonal_naive_7,21,159.0,,
+2017-04-16,Total demand,baseline_seasonal_naive_7,22,112.0,,
+2017-04-17,Total demand,baseline_seasonal_naive_7,23,84.0,,
+2017-04-18,Total demand,baseline_seasonal_naive_7,24,22.0,,
+2017-04-19,Total demand,baseline_seasonal_naive_7,25,56.0,,
+2017-04-20,Total demand,baseline_seasonal_naive_7,26,42.0,,
+2017-04-21,Total demand,baseline_seasonal_naive_7,27,63.0,,
+2017-04-22,Total demand,baseline_seasonal_naive_7,28,159.0,,
+2017-03-26,Total demand,hist_gradient_boosting_recursive,1,109.138945229768,,
+2017-03-27,Total demand,hist_gradient_boosting_recursive,2,52.724348694312965,,
+2017-03-28,Total demand,hist_gradient_boosting_recursive,3,53.91002589237065,,
+2017-03-29,Total demand,hist_gradient_boosting_recursive,4,65.69821666615098,,
+2017-03-30,Total demand,hist_gradient_boosting_recursive,5,70.02271326101618,,
+2017-03-31,Total demand,hist_gradient_boosting_recursive,6,91.78540476813978,,
+2017-04-01,Total demand,hist_gradient_boosting_recursive,7,137.39761623754663,,
+2017-04-02,Total demand,hist_gradient_boosting_recursive,8,109.82968355947038,,
+2017-04-03,Total demand,hist_gradient_boosting_recursive,9,45.38046279426334,,
+2017-04-04,Total demand,hist_gradient_boosting_recursive,10,55.84046588834389,,
+2017-04-05,Total demand,hist_gradient_boosting_recursive,11,47.670608261872395,,
+2017-04-06,Total demand,hist_gradient_boosting_recursive,12,60.52270109981862,,
+2017-04-07,Total demand,hist_gradient_boosting_recursive,13,68.75262280251538,,
+2017-04-08,Total demand,hist_gradient_boosting_recursive,14,145.80420999906684,,
+2017-04-09,Total demand,hist_gradient_boosting_recursive,15,108.85789850354662,,
+2017-04-10,Total demand,hist_gradient_boosting_recursive,16,48.71050003191819,,
+2017-04-11,Total demand,hist_gradient_boosting_recursive,17,51.4438520217716,,
+2017-04-12,Total demand,hist_gradient_boosting_recursive,18,48.218562756994174,,
+2017-04-13,Total demand,hist_gradient_boosting_recursive,19,57.047540234754436,,
+2017-04-14,Total demand,hist_gradient_boosting_recursive,20,74.51720211749132,,
+2017-04-15,Total demand,hist_gradient_boosting_recursive,21,137.0379189402114,,
+2017-04-16,Total demand,hist_gradient_boosting_recursive,22,109.23225287455857,,
+2017-04-17,Total demand,hist_gradient_boosting_recursive,23,55.83063918827289,,
+2017-04-18,Total demand,hist_gradient_boosting_recursive,24,50.715153645371544,,
+2017-04-19,Total demand,hist_gradient_boosting_recursive,25,48.60574732930631,,
+2017-04-20,Total demand,hist_gradient_boosting_recursive,26,58.96474155673287,,
+2017-04-21,Total demand,hist_gradient_boosting_recursive,27,72.5613353781832,,
+2017-04-22,Total demand,hist_gradient_boosting_recursive,28,144.47266140069326,,
+2017-03-26,Total demand,prophet_additive_selected_on_aligned_cv,1,100.43523649445177,68.71152160186632,132.47982681307167
+2017-03-27,Total demand,prophet_additive_selected_on_aligned_cv,2,48.899903075238825,18.36645772954258,79.26229424041863
+2017-03-28,Total demand,prophet_additive_selected_on_aligned_cv,3,50.39535553480782,21.289706750800995,80.23963082131598
+2017-03-29,Total demand,prophet_additive_selected_on_aligned_cv,4,48.375212100811495,19.85083045916216,79.45084454259383
+2017-03-30,Total demand,prophet_additive_selected_on_aligned_cv,5,56.1591805165299,26.119113171990715,86.8948366112325
+2017-03-31,Total demand,prophet_additive_selected_on_aligned_cv,6,73.63232502426123,42.223711780171136,101.50888695752386
+2017-04-01,Total demand,prophet_additive_selected_on_aligned_cv,7,127.71270210993953,96.58407572979021,159.2547735431566
+2017-04-02,Total demand,prophet_additive_selected_on_aligned_cv,8,100.44341305404993,69.7563191707114,132.33988270693902
+2017-04-03,Total demand,prophet_additive_selected_on_aligned_cv,9,48.90807963487896,18.63248324525362,80.81719540894606
+2017-04-04,Total demand,prophet_additive_selected_on_aligned_cv,10,50.40353209442475,20.485739727223095,82.01689444622141
+2017-04-05,Total demand,prophet_additive_selected_on_aligned_cv,11,48.38338866043742,17.47991860663681,77.63621546593721
+2017-04-06,Total demand,prophet_additive_selected_on_aligned_cv,12,56.167357076159554,27.438526173930523,86.37745779145932
+2017-04-07,Total demand,prophet_additive_selected_on_aligned_cv,13,73.64050158393118,42.57718010126554,105.46803577898318
+2017-04-08,Total demand,prophet_additive_selected_on_aligned_cv,14,127.72087866961016,95.45462090910252,157.66841911512088
+2017-04-09,Total demand,prophet_additive_selected_on_aligned_cv,15,100.451589613599,71.31702048429821,129.0818411710255
+2017-04-10,Total demand,prophet_additive_selected_on_aligned_cv,16,48.9162561945527,16.03348640311203,80.04902401526762
+2017-04-11,Total demand,prophet_additive_selected_on_aligned_cv,17,50.41170865407021,20.485960784920163,79.06379208714607
+2017-04-12,Total demand,prophet_additive_selected_on_aligned_cv,18,48.391565220056876,16.161995268241185,80.96285419312213
+2017-04-13,Total demand,prophet_additive_selected_on_aligned_cv,19,56.17553363578921,27.10910577842096,88.01150848299311
+2017-04-14,Total demand,prophet_additive_selected_on_aligned_cv,20,73.64867814357802,44.33561817429058,104.62897778372432
+2017-04-15,Total demand,prophet_additive_selected_on_aligned_cv,21,127.72905522920422,95.74045008931867,159.04608678873475
+2017-04-16,Total demand,prophet_additive_selected_on_aligned_cv,22,100.45976617330577,71.24245594795492,132.25346025615065
+2017-04-17,Total demand,prophet_additive_selected_on_aligned_cv,23,48.924432754144426,17.907383726067977,79.41452993547315
+2017-04-18,Total demand,prophet_additive_selected_on_aligned_cv,24,50.419885213715666,17.738576135948136,79.14997822938169
+2017-04-19,Total demand,prophet_additive_selected_on_aligned_cv,25,48.39974177969663,17.960742846951018,78.82438703895991
+2017-04-20,Total demand,prophet_additive_selected_on_aligned_cv,26,56.18371019539909,25.642077568102643,88.21909425950074
+2017-04-21,Total demand,prophet_additive_selected_on_aligned_cv,27,73.65685470314261,42.19629952328911,108.73237493589859
+2017-04-22,Total demand,prophet_additive_selected_on_aligned_cv,28,127.73723178883478,98.22274088600632,159.54866769034305
+2017-03-26,Total demand,tensorflow_mlp,1,105.96971588612725,,
+2017-03-27,Total demand,tensorflow_mlp,2,48.52447538886781,,
+2017-03-28,Total demand,tensorflow_mlp,3,60.05175166757306,,
+2017-03-29,Total demand,tensorflow_mlp,4,26.952589878891104,,
+2017-03-30,Total demand,tensorflow_mlp,5,42.430652937091054,,
+2017-03-31,Total demand,tensorflow_mlp,6,76.23293223638828,,
+2017-04-01,Total demand,tensorflow_mlp,7,140.24580876829987,,
+2017-04-02,Total demand,tensorflow_mlp,8,101.41839776488018,,
+2017-04-03,Total demand,tensorflow_mlp,9,53.99145509330333,,
+2017-04-04,Total demand,tensorflow_mlp,10,44.84136749510026,,
+2017-04-05,Total demand,tensorflow_mlp,11,50.96414650932866,,
+2017-04-06,Total demand,tensorflow_mlp,12,49.03260116389629,,
+2017-04-07,Total demand,tensorflow_mlp,13,78.02366418681302,,
+2017-04-08,Total demand,tensorflow_mlp,14,137.20968897507237,,
+2017-04-09,Total demand,tensorflow_mlp,15,104.91289330359564,,
+2017-04-10,Total demand,tensorflow_mlp,16,66.61753783044298,,
+2017-04-11,Total demand,tensorflow_mlp,17,52.57365101487426,,
+2017-04-12,Total demand,tensorflow_mlp,18,49.76006078940941,,
+2017-04-13,Total demand,tensorflow_mlp,19,66.5119188137528,,
+2017-04-14,Total demand,tensorflow_mlp,20,80.94782482846642,,
+2017-04-15,Total demand,tensorflow_mlp,21,136.01092496539923,,
+2017-04-16,Total demand,tensorflow_mlp,22,114.7270756208627,,
+2017-04-17,Total demand,tensorflow_mlp,23,58.881991315132495,,
+2017-04-18,Total demand,tensorflow_mlp,24,58.582791444001145,,
+2017-04-19,Total demand,tensorflow_mlp,25,59.59021945045788,,
+2017-04-20,Total demand,tensorflow_mlp,26,54.05843957005891,,
+2017-04-21,Total demand,tensorflow_mlp,27,81.9110409273602,,
+2017-04-22,Total demand,tensorflow_mlp,28,150.06431259237024,,

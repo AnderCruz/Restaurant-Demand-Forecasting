@@ -1,0 +1,17 @@
+{
+  "training_cutoff": "2017-03-25",
+  "holdout_period": [
+    "2017-03-26",
+    "2017-04-22"
+  ],
+  "horizon_days": 28,
+  "selection": "Classical finalists and HistGradientBoosting parameters selected on development folds; neural architecture selected in notebook 08 development folds. Baselines are included.",
+  "package_versions": {
+    "pandas": "2.3.3",
+    "scikit-learn": "1.9.1",
+    "statsmodels": "0.15.0",
+    "prophet": "1.5.0"
+  },
+  "forecasts": "artifacts/forecasts/final_holdout_forecasts.csv",
+  "intervals": "Available for Prophet and Statsmodels forecasts; not estimated for baselines, HistGradientBoosting, or neural forecasts."
+}

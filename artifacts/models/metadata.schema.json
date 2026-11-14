@@ -1,0 +1,8 @@
+{
+  "training_cutoff": "",
+  "package_versions": {},
+  "parameters": {},
+  "validation_method": "",
+  "forecast_horizon_days": null,
+  "status": "schema_template"
+}
